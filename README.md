@@ -1,1 +1,1 @@
-![This is an image](https://static.wikia.nocookie.net/star-wars-memes/images/2/24/Youunderestimatemypower.jpg/revision/latest?cb=20200430021236)
+![This is an image](https://static.wikia.nocookie.net/prequelmemes/images/7/7d/High_ground.jpg/revision/latest?cb=20191231171323)
