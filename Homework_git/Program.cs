@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("You were my brother, Anakin!");
