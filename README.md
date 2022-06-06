@@ -1,1 +1,1 @@
-![This is an image](https://static.wikia.nocookie.net/prequelmemes/images/7/7d/High_ground.jpg/revision/latest?cb=20191231171323)
+![This is an image](https://64.media.tumblr.com/d04076d7b55d759d7862e178fb9a8d41/7b667e1a615e1133-43/s1280x1920/992fb566d33e7f6e3d2039f8be8faebdb5a83aa3.jpg)
